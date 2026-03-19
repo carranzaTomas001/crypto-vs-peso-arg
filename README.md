@@ -6,9 +6,9 @@ Análisis histórico del comportamiento de Bitcoin y Ethereum en el contexto mac
 
 ## 📊 Dashboard
 
-![Página 1 - Panorama General](C:\Users\Tomas\Pictures\Screenshots/pagina1.png)
-![Página 2 - Cripto en Pesos](C:\Users\Tomas\Pictures\Screenshots/pagina2.png)
-![Página 3 - Análisis de Tendencia](C:\Users\Tomas\Pictures\Screenshots/pagina3.png)
+![Página 1 - Panorama General](Screenshots/pagina1.png)
+![Página 2 - Cripto en Pesos](Screenshots/pagina2.png)
+![Página 3 - Análisis de Tendencia](Screenshots/pagina3.png)
 
 ---
 
